@@ -11,11 +11,6 @@ hash = "a29cc0d032b62f5cd6be50f9536554fdfd8ddb2f2256764c00910939b3476680"
 metafile = true
 
 [[files]]
-file = "mods/advancedperipherals.pw.toml"
-hash = "63833ffe55dc61c65d118669f3ba9d9870310dc2354387cba81011490bc40ccf"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
 metafile = true
@@ -46,16 +41,6 @@ hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
 
 [[files]]
-file = "mods/cc-recrafted.pw.toml"
-hash = "fa565923bb77fd85184bc7106db8f572eafd140a4c8bc4c2eabbc04bb34778cd"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "457f82eb5d7b278e706d1c544ffb4186b6e8d45ff69f6af03d92e9c2758b8a94"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "b4ef8e1e01e2215bb293087c80a81f89428bf309d049f8bc9cdd6b8c8037c79b"
 metafile = true
@@ -83,41 +68,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "5f7a3b72de601f8f68fd3ddb021b5875c1332d81bd1b634f4f1424acbd2c20a3"
-metafile = true
-
-[[files]]
-file = "mods/create-goggle-placement-lieonlion.pw.toml"
-hash = "e0f44de06219620b6aceba3f5120a9294dc0bf636423b63ddd8a16a175d91265"
-metafile = true
-
-[[files]]
-file = "mods/create-goggles.pw.toml"
-hash = "008cc3423e69884e1e34131c7a2727bc8501d02fdeb7941b91ea81cb56cb6ede"
-metafile = true
-
-[[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "07bc61993957000b9c2ff6e1e5c0a4ef246aa18745f70a7a8c1c875b7b2bddd7"
-metafile = true
-
-[[files]]
-file = "mods/create-refined-storage-recipes.pw.toml"
-hash = "7f849b9af9216d790064debbe545e1cab644de8c64aaf97d2626e4b786416262"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "ba16d5e568349bc79bb6a648090047fee23db3931f5399f9ad09c930410c740c"
-metafile = true
-
-[[files]]
-file = "mods/create-structures-arise.pw.toml"
-hash = "75eac7d45b9c818d09d1093cead7bba6fa273f2b8bf3b894ca2700a87a4df349"
 metafile = true
 
 [[files]]
@@ -226,11 +176,6 @@ hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
-file = "mods/interiors.pw.toml"
-hash = "dc5120c1a6e91cd9c3ffd93190e3e093d1013ee5f55c6a3feb64d9f43f5f14fd"
-metafile = true
-
-[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "3821402f6ea538edf6f958ca67b81fa999379d4d36f6fcea24b44a80f70a450d"
 metafile = true
@@ -253,16 +198,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
-metafile = true
-
-[[files]]
-file = "mods/kubejs+cc-tweaked.pw.toml"
-hash = "715916f67a72805e4c86709e4ed47bd4cf537d64b23117b3b0e31de0e7bfc523"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-create.pw.toml"
-hash = "1676399bef87b7bc1bb1c8194e64a50a6dac0e1ee635b17e2d85b66e05d2c0b8"
 metafile = true
 
 [[files]]
@@ -326,11 +261,6 @@ hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "a57d19d497cf458f524a95c11a1f31684831e11e5e5b940bf1f88aca204668d4"
 metafile = true
@@ -346,18 +276,8 @@ hash = "cda6e32875942f8893b3f08645da60d280b2c45e16a9eedbc334a89329c0fa3d"
 metafile = true
 
 [[files]]
-file = "mods/storage-drawers-create-compat.pw.toml"
-hash = "000b6ed7423aa323da45cdcd9db145f4f07acd8bc9cd9abc4e335f5651605af4"
-metafile = true
-
-[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
-metafile = true
-
-[[files]]
-file = "mods/turtle-charging-station.pw.toml"
-hash = "a6bf4d8b6e943ce37f6bf9166efee0a634ea9dabff970446d033dc4b0f944cd4"
 metafile = true
 
 [[files]]

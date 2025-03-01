@@ -26,11 +26,6 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/backpacked.pw.toml"
-hash = "5529fab4cd1c7f4bd6ad12cda0196d73cab74f5fb5bda828074897b4ae30f1c5"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "87f78578b638b65ddfb553c45525271c9afd205a39e5b7db09b20079f2300159"
 metafile = true
@@ -206,11 +201,6 @@ hash = "c02d5558f7c034fbb180e794403ed738b57ee89b2894cd650ae6b16b661ac074"
 metafile = true
 
 [[files]]
-file = "mods/framework.pw.toml"
-hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "e74501466c0646d2993ef69f0aa567fb6179ba9a9f740813e14b5a04dada02f8"
 metafile = true
@@ -341,6 +331,16 @@ hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "a57d19d497cf458f524a95c11a1f31684831e11e5e5b940bf1f88aca204668d4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "0438dc55a4e381130ee55e3d5517bbb1286ddac14f485239a3f45733f42f67ea"
+metafile = true
+
+[[files]]
 file = "mods/spelunkery.pw.toml"
 hash = "cda6e32875942f8893b3f08645da60d280b2c45e16a9eedbc334a89329c0fa3d"
 metafile = true
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/wayfix.pw.toml"
-hash = "cdd19243c79b3affdce944040b41f321f2594e62af7ea37fbecbd8c0328bfe9e"
+hash = "600af2d1b8857418d91973d09d0927b4f782890415f3d15959ba115aa84e8acc"
 metafile = true
 
 [[files]]

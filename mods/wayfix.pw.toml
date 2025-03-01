@@ -1,0 +1,19 @@
+name = "WayFix"
+filename = "wayfix-1.0.5+1.20-1.20.4-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hxIWsdEF/versions/mUOEfcQJ/wayfix-1.0.5%2B1.20-1.20.4-forge.jar"
+hash-format = "sha512"
+hash = "7ebea4e279a38103fb63b556b6aa6897d820a2ecdeb2f41cdd6a1b7e5a742447f4abe9bb42e81a549ecfa802eeb76800d2ef95356bd4975d1699d73de1a7df31"
+
+[update]
+[update.modrinth]
+mod-id = "hxIWsdEF"
+version = "mUOEfcQJ"
+
+[option]
+optional = true
+default = false
+description = "If you are using wayland you might need to enable this mod."
+

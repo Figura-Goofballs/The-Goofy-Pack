@@ -1,0 +1,13 @@
+name = "Chat Notify"
+filename = "chatnotify-forge-2.4.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iudurxl8/versions/NPq5KNeJ/chatnotify-forge-2.4.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "b825199c906cc83e4ce80458cba238f41bb9786657f32edaebd890b9c3a2651e5f46e4b88da7db267a1e7a937c3623a09dd15f7120e73724f200f5b101f4f6ba"
+
+[update]
+[update.modrinth]
+mod-id = "Iudurxl8"
+version = "NPq5KNeJ"

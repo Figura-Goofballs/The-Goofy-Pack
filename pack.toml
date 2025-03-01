@@ -1,0 +1,13 @@
+name = "The Goofy Pack"
+author = "Figura Goofballs"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "580b87c143f793025e89835ea59695f8f89b2b1caf1e3407ea259ded12473a49"
+
+[versions]
+forge = "47.3.33"
+minecraft = "1.20.1"

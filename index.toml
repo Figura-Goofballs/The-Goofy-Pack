@@ -210,6 +210,16 @@ hash = "e89058045a2eae9a97a7fe5744580bb2174a3b747b96e4356930403fd183104a"
 metafile = true
 
 [[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "91ca4cc8ff88dfd2d50fb211be8b0cf7b0b123ff137fa3d10d98c299530be221"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "2ef2be9908885bf714113fbfdfc8023ffe5417efc7acf72650cea3677a6403c7"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "719ad710d4cbd6bef252afe144a3609425f5b63592187448e14bbc3267d4941b"
 metafile = true
@@ -222,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "1f6fe88a1e44e31f32d5efb1f359d45b1961c0869b7329f32280177d363a014f"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b4a51a4c2cc9a9e3b47a5cd4408df817f496c4c7c2c6890e12c5d54b2317e650"
 metafile = true
 
 [[files]]

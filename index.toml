@@ -70,7 +70,39 @@ hash = "51c59cad9e4d58f22f3f46ca7a6ecbd124ea0555a7d29b276dae48629621f56b"
 
 [[files]]
 file = "config/heracles/tutorial.html"
-hash = "101edf24ece874cbd7f6c1d9caf9a3e1b7419222e45e115addaf162f8f842f8f"
+hash = "74c8429146e4e51231431e3d92570f4bab0f4f283fc294405ecb662822c3d092"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "ef60a8ed281c9fa034366b807dfcf31fc80eed082743c12f9ec6d442b317a6d9"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "423324f6865e0ecb7a71da2309dea11dea87d85fbea511ced04c682855db3a5b"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "1e35a5be6d3b303a517dd0c433f4c2da11c7060a1b6503e256d51462b3358332"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"

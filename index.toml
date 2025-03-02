@@ -120,6 +120,11 @@ hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "6486abd02846d51e2da7c93ddc1bb66ea57d5917bd20e9df33d6063ab74097aa"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -385,11 +390,6 @@ hash = "0d461adcae8e714aca3c334190fe55aeff23b0c3c0b915b74de9810c9130fefd"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "b29b617692233d60179a6d7376dade85063af0e73a3cc53c623bf570fb768d82"
-metafile = true
-
-[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "1452a856b21b8b84e47c2220bc4e6a410ce5330023f890009a3f84c9046c6d3b"
 metafile = true
@@ -482,6 +482,16 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
+metafile = true
+
+[[files]]
+file = "mods/surveystones.pw.toml"
+hash = "5dfce959e00b2a6dae0ee075875f64821b9f76b174b951565fa55f28d6344dfc"
 metafile = true
 
 [[files]]

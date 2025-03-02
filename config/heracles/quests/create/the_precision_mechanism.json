@@ -1,0 +1,55 @@
+{
+  "dependencies": [
+    "brass"
+  ],
+  "tasks": {
+    "Precision Mechanism": {
+      "type": "heracles:item",
+      "item": "create:precision_mechanism",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "50 XP": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "The precision mechanism is important for all late-game create things, from potato cannons to trains!"
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          120,
+          -120
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:precision_mechanism",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "The Precision Mechanism"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": true,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

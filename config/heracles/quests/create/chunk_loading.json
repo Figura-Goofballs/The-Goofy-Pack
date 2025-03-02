@@ -1,0 +1,49 @@
+{
+  "dependencies": [
+    "rotation"
+  ],
+  "tasks": {
+    "chunk loader": {
+      "type": "heracles:item",
+      "item": "create_power_loader:andesite_chunk_loader",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Your first chunk loader! This lets you keep a chunk fully loaded at all times."
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          0,
+          -60
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create_power_loader:andesite_chunk_loader",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Chunk Loading"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

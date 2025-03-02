@@ -1,0 +1,49 @@
+{
+  "dependencies": [
+    "the_precision_mechanism"
+  ],
+  "tasks": {
+    "better chunk loader": {
+      "type": "heracles:item",
+      "item": "create_power_loader:brass_chunk_loader",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "This chunk loader is better than the andesite one as you can specify a range."
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          60,
+          -120
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create_power_loader:brass_chunk_loader",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Better Chunk Loading"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

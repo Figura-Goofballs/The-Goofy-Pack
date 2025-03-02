@@ -1,0 +1,76 @@
+{
+  "dependencies": [
+    "automation"
+  ],
+  "tasks": {
+    "ticker": {
+      "type": "heracles:item",
+      "item": "create:stock_ticker",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "postbox": {
+      "type": "heracles:item",
+      "item": "create:white_postbox",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "packager": {
+      "type": "heracles:item",
+      "item": "create:packager",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "packager"
+    },
+    "network": {
+      "type": "heracles:item",
+      "item": "create:stock_link",
+      "amount": 2,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "frog": {
+      "item": {
+        "id": "create:package_frogport",
+        "count": 3
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Now you can send people items of all sorts!"
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          240,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:brown_postbox",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "The Postal Service"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

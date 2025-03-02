@@ -1,0 +1,49 @@
+{
+  "dependencies": [
+    "the_camera"
+  ],
+  "tasks": {
+    "acquire film": {
+      "type": "heracles:item",
+      "item": "exposure:developed_color_film",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Developing your film is the second to last step of getting a picture!"
+    ],
+    "groups": {
+      "Exposure": {
+        "position": [
+          60,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "exposure:developed_color_film",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "Developing your Film"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

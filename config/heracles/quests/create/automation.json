@@ -1,0 +1,55 @@
+{
+  "dependencies": [
+    "trains"
+  ],
+  "tasks": {
+    "Schedule": {
+      "type": "heracles:item",
+      "item": "create:schedule",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "20xp": {
+      "xptype": "POINTS",
+      "amount": 20,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "This is essential for trains."
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          240,
+          -61
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:schedule",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Automated Trains!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

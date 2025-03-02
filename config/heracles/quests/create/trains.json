@@ -1,0 +1,76 @@
+{
+  "dependencies": [
+    "brass"
+  ],
+  "tasks": {
+    "station": {
+      "type": "heracles:item",
+      "item": "create:track_station",
+      "amount": 2,
+      "collection": "AUTOMATIC"
+    },
+    "casing": {
+      "type": "heracles:item",
+      "item": "create:railway_casing",
+      "amount": 5,
+      "collection": "AUTOMATIC"
+    },
+    "tracks": {
+      "type": "heracles:item",
+      "item": "create:track",
+      "amount": 32,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "seat": {
+      "item": {
+        "id": "create:red_seat",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "controls": {
+      "item": {
+        "id": "create:controls",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Now you can really get around! Trains can run even when not in loaded chunks."
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          184,
+          -60
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:track_station",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Trains!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

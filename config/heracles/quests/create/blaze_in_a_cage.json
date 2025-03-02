@@ -1,0 +1,55 @@
+{
+  "dependencies": [
+    "pressing"
+  ],
+  "tasks": {
+    "Blaze Burner": {
+      "type": "heracles:item",
+      "item": "create:blaze_burner",
+      "amount": 5,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "20xp": {
+      "xptype": "POINTS",
+      "amount": 20,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Blaze burners will be super important later on, so make sure to get plenty!"
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          120,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:blaze_burner",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "Blaze in a Cage"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": true,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

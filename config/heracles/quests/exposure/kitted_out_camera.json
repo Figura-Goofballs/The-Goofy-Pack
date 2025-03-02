@@ -1,0 +1,70 @@
+{
+  "dependencies": [
+    "the_camera"
+  ],
+  "tasks": {
+    "redstone_lamp": {
+      "type": "heracles:item",
+      "item": "minecraft:redstone_lamp",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Flash"
+    },
+    "spyglass": {
+      "type": "heracles:item",
+      "item": "minecraft:spyglass",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Zoom"
+    },
+    "glass_pane": {
+      "type": "heracles:item",
+      "item": "minecraft:glass_pane",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Lens"
+    }
+  },
+  "rewards": {
+    "20xp": {
+      "xptype": "POINTS",
+      "amount": 20,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "shift right click to put in these attachments."
+    ],
+    "groups": {
+      "Exposure": {
+        "position": [
+          0,
+          -60
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:redstone_lamp",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Fully Kitted Out"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

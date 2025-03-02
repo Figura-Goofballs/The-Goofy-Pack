@@ -21,6 +21,16 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "58bf232b1c834c1fef46c16da46503490f0abe73b15ce975d549190de79c5e79"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "87f78578b638b65ddfb553c45525271c9afd205a39e5b7db09b20079f2300159"
 metafile = true
@@ -38,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "1f72381616a5bfc9b6f461a8ff3b335a5c4dccac953f0c9e399d1b98ceb2114a"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
 metafile = true
 
 [[files]]
@@ -61,8 +81,18 @@ hash = "c73999733f2f3949efae4c146bd2a63dd409c40f17cfbb4899a13f511076c815"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "84ed1e8a24873d2cc3fcf88e503d9945d10be63b2414503c884e394b62083f56"
 metafile = true
 
 [[files]]
@@ -71,8 +101,28 @@ hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
 metafile = true
 
 [[files]]
+file = "mods/create-compressed.pw.toml"
+hash = "e89058045a2eae9a97a7fe5744580bb2174a3b747b96e4356930403fd183104a"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "719ad710d4cbd6bef252afe144a3609425f5b63592187448e14bbc3267d4941b"
+metafile = true
+
+[[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "75eac7d45b9c818d09d1093cead7bba6fa273f2b8bf3b894ca2700a87a4df349"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "20a70be7c186d574ab11c58836e98521253651bcf17755051f5cd6b30b418266"
+hash = "1f6fe88a1e44e31f32d5efb1f359d45b1961c0869b7329f32280177d363a014f"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "bed5320527e516dd80fca131d3f02022e31a2e87b772cd6dbdbf867b2fa37e5e"
 metafile = true
 
 [[files]]
@@ -131,6 +181,16 @@ hash = "3f88ff2db665fcaed3e12b41f4956956740e08badab26823ac6d5b20ce96ee15"
 metafile = true
 
 [[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "07a8933badc4857f5f702610a43abab99a3822dfd559044c088605e0353d4b42"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "286018120c36b3df87f01d2ed7b94a8e0538279a38c81e37fc805200fe2dac84"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
 metafile = true
@@ -171,8 +231,28 @@ hash = "af611db48c7c591bffe5100b284423e8c6282bcbd3b86a12fed2f954f3b1f46d"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
+hash = "71dc495901cf92b8f044d3aa2c02311fedac76ebb4c5dac1d7a727a455c61471"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "64746f94b8bd50058672bcf83a0946d05f1c0b64ab2b2260f736fe0dba3726c8"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e1b7575ede41282245f402976e29af128960d7dd4d34827c8068b06e3fdb30a6"
 metafile = true
 
 [[files]]
@@ -253,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]

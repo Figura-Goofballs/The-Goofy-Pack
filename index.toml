@@ -220,11 +220,6 @@ hash = "91ca4cc8ff88dfd2d50fb211be8b0cf7b0b123ff137fa3d10d98c299530be221"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "2ef2be9908885bf714113fbfdfc8023ffe5417efc7acf72650cea3677a6403c7"
-metafile = true
-
-[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "719ad710d4cbd6bef252afe144a3609425f5b63592187448e14bbc3267d4941b"
 metafile = true
@@ -252,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "425b89ad97e9d1da08de7129d9f5fcffaf43ec9676a06a9850ea6a90b60927ea"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "f6c528e794805e1be249f9324cba2f83d7813f1c91a879cf93d7dd03b612932c"
 metafile = true
 
 [[files]]
@@ -492,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/surveystones.pw.toml"
 hash = "5dfce959e00b2a6dae0ee075875f64821b9f76b174b951565fa55f28d6344dfc"
+metafile = true
+
+[[files]]
+file = "mods/turtle-charging-station.pw.toml"
+hash = "a6bf4d8b6e943ce37f6bf9166efee0a634ea9dabff970446d033dc4b0f944cd4"
 metafile = true
 
 [[files]]

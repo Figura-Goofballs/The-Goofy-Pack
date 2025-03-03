@@ -299,10 +299,13 @@ file = "mods/handcrafted.pw.toml"
 metafile = true
 
 [[files]]
+<<<<<<< HEAD
 file = "mods/heracles.pw.toml"
 metafile = true
 
 [[files]]
+=======
+>>>>>>> 9d801cb (uninstall Heracles, install FTB Quests)
 file = "mods/immediatelyfast.pw.toml"
 metafile = true
 

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "c326f53078f173ca6d07bd1884321c28010eae043455d32c359869ac41851a85"
-
-[[files]]
 file = "config/heracles/groups.txt"
 hash = "4ed63e9ec3bef58d8763f1edbc69b5bae210d6d3fccb2a0687e25768eaf8a5d2"
 

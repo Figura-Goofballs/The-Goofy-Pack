@@ -1,0 +1,13 @@
+name = "Mandala's GUI - Dark mode"
+filename = "MandalasGUI_Dakmode_Vanilla1.20.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h6zxsNVF/versions/kJrX5B4S/MandalasGUI_Dakmode_Vanilla1.20.4.zip"
+hash-format = "sha512"
+hash = "69dee10cbda99ff114e273cb34685e463f4fafa1ce08c83f400e4dda88e2efa7c3451f3d875f1a8161150cd8d7e69fea26f8b606a6799b6d36895458110d1fa5"
+
+[update]
+[update.modrinth]
+mod-id = "h6zxsNVF"
+version = "kJrX5B4S"

@@ -55,6 +55,8 @@ file = "config/heracles/quests/exposure/the_final_product.json"
 file = "config/heracles/tutorial.html"
 
 [[files]]
+=======
+>>>>>>> 9b6d1c6 (cleanup)
 file = "kubejs/README.txt"
 
 [[files]]
@@ -279,6 +281,16 @@ file = "mods/framework.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "01fccb8f3abe9c7f542ec610aef0c647bdc5a8ce0677c74e340ba4c2da0614af"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 metafile = true
 
@@ -304,187 +316,3 @@ file = "mods/heracles.pw.toml"
 metafile = true
 
 [[files]]
-=======
->>>>>>> 9d801cb (uninstall Heracles, install FTB Quests)
-file = "mods/immediatelyfast.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/immersive-aircraft.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/integrated-dynamics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/items-displayed-forge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/justenoughbreeding.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lootr.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/modelfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/natures-compass.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/nethers-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/regions-unexplored.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/spelunkery.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/storagedrawers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/surveystones.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/turtle-charging-station.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/wayfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/waystones-teleport-pets.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-desert-temples.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-dungeons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-jungle-temples.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-mineshafts.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-ocean-monuments.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-witch-huts.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enhanced-boss-bars.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/even-better-enchants.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-on-fire.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/translations-for-sodium.pw.toml"
-metafile = true

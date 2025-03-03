@@ -120,6 +120,11 @@ hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "34a8b17402001af5e632d093606e322bb0cb72cb4dd2c9d66b3ecbbaf5a5e42f"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "6486abd02846d51e2da7c93ddc1bb66ea57d5917bd20e9df33d6063ab74097aa"
 metafile = true
@@ -132,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/argonauts.pw.toml"
 hash = "58bf232b1c834c1fef46c16da46503490f0abe73b15ce975d549190de79c5e79"
+metafile = true
+
+[[files]]
+file = "mods/async-locator.pw.toml"
+hash = "511e20af51a55064c02d18ed69caffff6a8b72eeaddaf69a3f5eedfd7d951b85"
 metafile = true
 
 [[files]]
@@ -205,6 +215,11 @@ hash = "84ed1e8a24873d2cc3fcf88e503d9945d10be63b2414503c884e394b62083f56"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
 metafile = true
@@ -252,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "f6c528e794805e1be249f9324cba2f83d7813f1c91a879cf93d7dd03b612932c"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
 metafile = true
 
 [[files]]
@@ -370,23 +380,23 @@ hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "124201a3e9f804b7e3ded32d2cb415743f8b91cf124c7f7491bae915e434c4aa"
+metafile = true
+
+[[files]]
 file = "mods/integrated-dynamics.pw.toml"
 hash = "64746f94b8bd50058672bcf83a0946d05f1c0b64ab2b2260f736fe0dba3726c8"
 metafile = true
 
 [[files]]
+file = "mods/items-displayed-forge.pw.toml"
+hash = "8e7cb263af58c8b1c81a905a1dca342232715dfafeb47eca4d3c64f8e5c53df9"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e1b7575ede41282245f402976e29af128960d7dd4d34827c8068b06e3fdb30a6"
-metafile = true
-
-[[files]]
-file = "mods/journeymap-integration.pw.toml"
-hash = "3821402f6ea538edf6f958ca67b81fa999379d4d36f6fcea24b44a80f70a450d"
-metafile = true
-
-[[files]]
-file = "mods/journeymap-teams.pw.toml"
-hash = "0d461adcae8e714aca3c334190fe55aeff23b0c3c0b915b74de9810c9130fefd"
 metafile = true
 
 [[files]]
@@ -455,6 +465,11 @@ hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
@@ -485,6 +500,11 @@ hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "061f2fdc7a914407b29a5066980f5e5c72095a61bb008d7ce2d3d28956d3f15a"
+metafile = true
+
+[[files]]
 file = "mods/surveyor.pw.toml"
 hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
 metafile = true
@@ -492,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/surveystones.pw.toml"
 hash = "5dfce959e00b2a6dae0ee075875f64821b9f76b174b951565fa55f28d6344dfc"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
 metafile = true
 
 [[files]]

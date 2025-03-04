@@ -1,0 +1,101 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "technology"
+	group: ""
+	hide_quest_until_deps_visible: true
+	icon: "refinedstorage:advanced_processor"
+	id: "0EF64C1A0824C7DD"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7AA9C9BB09F52BE6"
+			invisible: true
+			subtitle: "Somehow the foundation of complex technology"
+			tasks: [{
+				icon: "integrateddynamics:menril_log"
+				id: "2A84C362E723040F"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "integrateddynamics:menril_log"
+							}
+							{
+								Count: 1b
+								id: "integrateddynamics:menril_log_stripped"
+							}
+							{
+								Count: 1b
+								id: "integrateddynamics:menril_wood"
+							}
+							{
+								Count: 1b
+								id: "integrateddynamics:menril_log_filled"
+							}
+							{
+								Count: 1b
+								id: "integrateddynamics:menril_leaves"
+							}
+							{
+								Count: 1b
+								id: "integrateddynamics:menril_sapling"
+							}
+							{
+								Count: 1b
+								id: "integrateddynamics:menril_berries"
+							}
+						]
+					}
+				}
+				title: "Menril"
+				type: "item"
+			}]
+			title: "Blue Trees"
+			x: -11.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7AA9C9BB09F52BE6"]
+			id: "11160733BEE48C13"
+			subtitle: "Turn menril into portable menril"
+			tasks: [{
+				id: "3E4AFFFC7B5F107F"
+				item: "integrateddynamics:crystalized_menril_chunk"
+				type: "item"
+			}]
+			title: "Tree Shards"
+			x: -9.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7AA9C9BB09F52BE6"]
+			id: "131215CDEEF2199D"
+			subtitle: "Learn how to save things for later"
+			tasks: [{
+				id: "513620F8B32ED9C3"
+				item: "integrateddynamics:variable"
+				type: "item"
+			}]
+			title: "let x = 2"
+			x: -9.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7AA9C9BB09F52BE6"]
+			id: "2019EAA482342C74"
+			tasks: [{
+				id: "2BC5D5D79C9933A7"
+				item: "integrateddynamics:logic_programmer"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -0.5d
+		}
+	]
+	title: "Technology"
+}

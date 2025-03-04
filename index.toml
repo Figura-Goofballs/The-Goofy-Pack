@@ -5,6 +5,10 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/technology.snbt"
+hash = "9f07b9a399d15e38e7164f7202d84324b330468c5706a0b178fb84f3cb990a7d"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/the_aether.snbt"
 hash = "f63e50796e4a88a2c2a09f7d03621a7dabfa7b661cc32ca855eddecd11aeab58"
 
@@ -386,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
 hash = "64746f94b8bd50058672bcf83a0946d05f1c0b64ab2b2260f736fe0dba3726c8"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
 metafile = true
 
 [[files]]

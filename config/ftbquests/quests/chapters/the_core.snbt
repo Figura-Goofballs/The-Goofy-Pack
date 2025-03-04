@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_core"
+	group: ""
+	icon: "minecraft:grass_block"
+	id: "4D604C95DF1A9F04"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "The Core"
+}

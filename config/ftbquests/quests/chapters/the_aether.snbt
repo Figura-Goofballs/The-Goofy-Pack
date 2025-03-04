@@ -1,0 +1,151 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_aether"
+	group: ""
+	icon: "aether:aether_portal_frame"
+	id: "7AEE5DBA433F267A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			description: [
+				"The &eAether&r is a place way up in the sky. Be careful not to fall down, or else you may end up back in the &2overworld&r!"
+				""
+				"This quest is repeatable, so every time you enter the &eAether&r you can get a new &aLore Book&r"
+			]
+			id: "66CF173AECEE24DF"
+			rewards: [{
+				auto: "disabled"
+				exclude_from_claim_all: true
+				id: "52219EDDD8FD17CA"
+				item: "aether:book_of_lore"
+				only_one: true
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				dimension: "aether:the_aether"
+				icon: "aether:aether_portal_frame"
+				id: "00D917DEE9CDC18B"
+				title: "Enter the Aether"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["66CF173AECEE24DF"]
+			id: "7356BA2F09DA23A3"
+			tasks: [{
+				icon: "aether:bronze_dungeon_key"
+				id: "2CCC42E6B2F80AC2"
+				structure: "aether:bronze_dungeon"
+				title: "Find a Bronze Dungeon"
+				type: "structure"
+			}]
+			title: "Your First Dungeon"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7356BA2F09DA23A3"]
+			id: "026C860DDB45E0B8"
+			tasks: [{
+				icon: "aether:silver_dungeon_key"
+				id: "3AF87A5A8043B3FD"
+				structure: "aether:silver_dungeon"
+				title: "Find a Silver Dungeon"
+				type: "structure"
+			}]
+			title: "Dungeon 2: Electric Boogaloo"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["026C860DDB45E0B8"]
+			id: "501C93DEB2897078"
+			tasks: [{
+				icon: "aether:gold_dungeon_key"
+				id: "75D9230435126FE8"
+				structure: "aether:gold_dungeon"
+				title: "Find a Gold Dungeon"
+				type: "structure"
+			}]
+			title: "A Gold One?"
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["501C93DEB2897078"]
+			id: "00A8EE3CE4084566"
+			tasks: [{
+				icon: "lost_aether_content:platinum_key"
+				id: "6486B30660FF456B"
+				structure: "lost_aether_content:platinum_dungeon"
+				title: "Find a Platinum Dungeon"
+				type: "structure"
+			}]
+			title: "The Final Dungeon"
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["026C860DDB45E0B8"]
+			hide_until_deps_complete: true
+			id: "044E010171DEEA42"
+			rewards: [
+				{
+					id: "0FA24A70B647F1A2"
+					item: "minecraft:saddle"
+					type: "item"
+				}
+				{
+					id: "4FFC223CA0FC9A03"
+					item: "aether_protect_your_moa:iron_moa_armor"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "14869718C866199B"
+				item: "aether:blue_moa_egg"
+				type: "item"
+			}]
+			title: "Your First Moa"
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["501C93DEB2897078"]
+			id: "27DBF4DB4503ABBB"
+			tasks: [{
+				id: "6ABD5F662ED92114"
+				item: "aether:sun_altar"
+				type: "item"
+			}]
+			title: "The Sun can Finally Set"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["00A8EE3CE4084566"]
+			id: "4385018418C7BC2A"
+			tasks: [{
+				id: "6827BCAA4CF38966"
+				item: {
+					Count: 1
+					id: "lost_aether_content:sentry_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "It's Finally Over"
+			x: 4.0d
+			y: -6.0d
+		}
+	]
+	title: "The Aether"
+}

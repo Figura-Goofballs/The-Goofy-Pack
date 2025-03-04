@@ -115,6 +115,36 @@ hash = "a29cc0d032b62f5cd6be50f9536554fdfd8ddb2f2256764c00910939b3476680"
 metafile = true
 
 [[files]]
+file = "mods/aeroblender.pw.toml"
+hash = "3003828b74335546dab094b9e20db143f9c01fe7a22dbcb934106a904819602f"
+metafile = true
+
+[[files]]
+file = "mods/aether-enhanced-extinguishing.pw.toml"
+hash = "8e7f2282ce70b5a82bfe05304c30e71d6d3c26a29a75d6e1f31e85af8b86eb2e"
+metafile = true
+
+[[files]]
+file = "mods/aether-lost-content.pw.toml"
+hash = "93dbcd5448e94be7bf618788f380773a1dd95fff06c802b52d7bf85163a66e44"
+metafile = true
+
+[[files]]
+file = "mods/aether-protect-your-moa.pw.toml"
+hash = "674a62706fa6f05d690c173f5199a591fef1a1a2b2d62668cd1bf70b4c530eb3"
+metafile = true
+
+[[files]]
+file = "mods/aether-villages.pw.toml"
+hash = "77d4ac40cfbd2ecf882b97c6ac16e38288c073c1915d3efd2d1ec0387e1b2ba2"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
 metafile = true
@@ -360,6 +390,11 @@ hash = "e74501466c0646d2993ef69f0aa567fb6179ba9a9f740813e14b5a04dada02f8"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7ebfb737cf7bc520cdfd207892af2d7e399d69f83500042a8860084a2726a32f"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
 metafile = true
@@ -450,6 +485,11 @@ hash = "2eef94672aa97aaaa8acde73ff931b76c960ff7ae1200ed4372fcae701346eb0"
 metafile = true
 
 [[files]]
+file = "mods/natural-progression.pw.toml"
+hash = "6598742dd66fa0e6898ae673b9a603fe24bf6ee0d36bc7e182d8ad625d94f5d5"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
@@ -505,6 +545,11 @@ hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "061f2fdc7a914407b29a5066980f5e5c72095a61bb008d7ce2d3d28956d3f15a"
 metafile = true
@@ -522,6 +567,16 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
+metafile = true
+
+[[files]]
+file = "mods/the-aether-redux.pw.toml"
+hash = "59f7a275a507dacff587d071d71896d6bb44fab67f2cd4483e9a2c2c63453447"
+metafile = true
+
+[[files]]
+file = "mods/the-aethers-delight.pw.toml"
+hash = "2b427e3ac6bdb6e86aff096d28ad11057dcf0ef8d3407775db060f731ced8427"
 metafile = true
 
 [[files]]

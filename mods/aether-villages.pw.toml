@@ -1,0 +1,13 @@
+name = "Aether Villages"
+filename = "AetherVillages-1.20.1-1.0.6-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3P2XnNW6/versions/AmzImNpk/AetherVillages-1.20.1-1.0.6-forge.jar"
+hash-format = "sha512"
+hash = "5ad79218ef00d66d53ef52aa9a5aaaf96e74735b9954c2a02929a7d732e8065103b155168dfc28a46e75fecd6f78c2ba93dc67f13f4054d2679167fb3607b5ff"
+
+[update]
+[update.modrinth]
+mod-id = "3P2XnNW6"
+version = "AmzImNpk"

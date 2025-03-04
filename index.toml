@@ -1,72 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/heracles/groups.txt"
-hash = "4ed63e9ec3bef58d8763f1edbc69b5bae210d6d3fccb2a0687e25768eaf8a5d2"
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
-file = "config/heracles/quests/create/automation.json"
-hash = "c284bd2df8e1aafc27e53e8777591c746c0c8b892fc8ebad15c4214b7e33d387"
+file = "config/ftbquests/quests/chapters/technology.snbt"
+hash = "9f07b9a399d15e38e7164f7202d84324b330468c5706a0b178fb84f3cb990a7d"
 
 [[files]]
-file = "config/heracles/quests/create/better_chunk_loading.json"
-hash = "f1241638c4dc80415019ca9b6e80f7880ca878a2f301611c1ce1c2d39ebfa34e"
+file = "config/ftbquests/quests/chapters/the_aether.snbt"
+hash = "f63e50796e4a88a2c2a09f7d03621a7dabfa7b661cc32ca855eddecd11aeab58"
 
 [[files]]
-file = "config/heracles/quests/create/blaze_in_a_cage.json"
-hash = "56274f64fa3e5257c649057322d2205495ddbfc332d0fac2504721ddc6adf46d"
+file = "config/ftbquests/quests/chapters/the_core.snbt"
+hash = "f704f406b4f31051f66fb0abb05cfb5f63198b7bef53f7c942a723c52e72c93d"
 
 [[files]]
-file = "config/heracles/quests/create/brass.json"
-hash = "a9ff7c301d9707b282cde1622e1eae746194df6ab34c2244f3cd7dc8636f2d19"
-
-[[files]]
-file = "config/heracles/quests/create/chunk_loading.json"
-hash = "bdf25cec925754cbd56a09d4f0249f9c60a293a2d738a1928ee811084c241d00"
-
-[[files]]
-file = "config/heracles/quests/create/mixing.json"
-hash = "3ef98060db258ce26667ff699125f2627ca70ed6f6b36527f6caf80017ae53f6"
-
-[[files]]
-file = "config/heracles/quests/create/pressing.json"
-hash = "791d02be7e143399220a2ce63f5bb56fceba8f702cdc08b58c2b7c0502518d6b"
-
-[[files]]
-file = "config/heracles/quests/create/rotation.json"
-hash = "bbfe2c50f4a5a6da4c0752352e2e5817a860687ba88695de905abcb5598aa59a"
-
-[[files]]
-file = "config/heracles/quests/create/the_postal_serivce.json"
-hash = "b97bb63e028665b68db2b7d4cdec28f34b3a52ef49488e76945c05d7219fe51e"
-
-[[files]]
-file = "config/heracles/quests/create/the_precision_mechanism.json"
-hash = "aceb1d6a746a288a1d121371b666f94a3a5ab344ff21181d27c01287ca35b2b4"
-
-[[files]]
-file = "config/heracles/quests/create/trains.json"
-hash = "60810fa03b1e9aa6e31196e5545164ae81b956269efb9d8f9ec104c1b34725bb"
-
-[[files]]
-file = "config/heracles/quests/exposure/developing_your_film.json"
-hash = "0126b68e2ffcd9131ee0b417db797180e1bf726297ec3c28dedcfd0c43817586"
-
-[[files]]
-file = "config/heracles/quests/exposure/kitted_out_camera.json"
-hash = "d92f12a4c767f7ae30f55bb9435e4b4b6c63aa9fe731e0878d50e0dfc2cc6c63"
-
-[[files]]
-file = "config/heracles/quests/exposure/the_camera.json"
-hash = "947fb184f19b339e9e9a3c3ce631dc451da4dbaf485592d02953462aacf28488"
-
-[[files]]
-file = "config/heracles/quests/exposure/the_final_product.json"
-hash = "51c59cad9e4d58f22f3f46ca7a6ecbd124ea0555a7d29b276dae48629621f56b"
-
-[[files]]
-file = "config/heracles/tutorial.html"
-hash = "74c8429146e4e51231431e3d92570f4bab0f4f283fc294405ecb662822c3d092"
+file = "config/ftbquests/quests/data.snbt"
+hash = "6b85c9288797ecbcd159e612756837cd5d1fac3790aaa13556dce44d4f57c790"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -156,11 +108,6 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "58bf232b1c834c1fef46c16da46503490f0abe73b15ce975d549190de79c5e79"
-metafile = true
-
-[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "511e20af51a55064c02d18ed69caffff6a8b72eeaddaf69a3f5eedfd7d951b85"
 metafile = true
@@ -193,11 +140,6 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
-metafile = true
-
-[[files]]
-file = "mods/cadmus.pw.toml"
-hash = "1f72381616a5bfc9b6f461a8ff3b335a5c4dccac953f0c9e399d1b98ceb2114a"
 metafile = true
 
 [[files]]
@@ -341,6 +283,11 @@ hash = "f9f6ab1a6f68298710ca37f82503969531856c67138c4049f20c134d8b70dc55"
 metafile = true
 
 [[files]]
+file = "mods/endrem.pw.toml"
+hash = "cf8b399763d0fc62822c3b1e3a7f9aee6b033dcaddc3cef4bfc33b4f52f2ba7c"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "3f88ff2db665fcaed3e12b41f4956956740e08badab26823ac6d5b20ce96ee15"
 metafile = true
@@ -381,6 +328,26 @@ hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "3cac9f3d4dc792068b030c9f260eee8cef70f307d98daa7e6814e0e4375de6e8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "6a0155012732893dae42d8a7dae4df181367eaaea57296e0ca9849567e7b9b4f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "01fccb8f3abe9c7f542ec610aef0c647bdc5a8ce0677c74e340ba4c2da0614af"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "e74501466c0646d2993ef69f0aa567fb6179ba9a9f740813e14b5a04dada02f8"
 metafile = true
@@ -411,11 +378,6 @@ hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
 
 [[files]]
-file = "mods/heracles.pw.toml"
-hash = "71dc495901cf92b8f044d3aa2c02311fedac76ebb4c5dac1d7a727a455c61471"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
@@ -428,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
 hash = "64746f94b8bd50058672bcf83a0946d05f1c0b64ab2b2260f736fe0dba3726c8"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
 metafile = true
 
 [[files]]
